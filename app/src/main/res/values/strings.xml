@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MPAndroidChart</string>
+    <string name="line_chart">Line chart</string>
+    <string name="pie_chart">Pie chart</string>
+</resources>
